@@ -3,5 +3,5 @@ Este breve projeto apresenta a análise exploratória em um dataset de vendas, q
 
 Para reproduzir este estudo, você deve:
   * Baixar o dataset;
-  * Fazer o upload deste dataset (se for feito pelo google colab, é possível abrir a janela de upload do sistema e selecionar o arquivo), ou basta arrastar e colar nos diretórios que estão à esquerda;
+  * Fazer o upload deste dataset (se for reproduzido pelo google colab ou jupyternotebook, é possível abrir a janela de upload do sistema e selecionar o arquivo), ou basta arrastar e colar nos diretórios que estão à esquerda;
  
